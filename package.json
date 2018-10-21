@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "Um tutorial de bot",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard"
+  },
+  "author": "Luan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "npm": "^6.4.1"
+  }
+}
